@@ -1,5 +1,5 @@
 
-    <section id="topper" style="text-align: center; background: #FF455F; padding: 100px 0;">
+    <section id="topper" style="text-align: center; background:url('<?php echo get_field('image', 'options'); ?>'); padding: 100px 0;">
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-md-offset-1">
