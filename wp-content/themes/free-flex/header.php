@@ -47,5 +47,15 @@
     <?php wp_head(); ?>
 
 </head>
+
+<header id="site-header">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 title">monologiq</div>
+
+		</div>
+	</div>
+</header>
+
 <body <?php body_class(); ?>>
 
